@@ -1,0 +1,2 @@
+https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5
+https://stackblitz.com/edit/netanel-control-er?file=src%2Fapp%2Fcontrol-error%2Fcontrol-error.component.ts
